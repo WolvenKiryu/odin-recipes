@@ -1,0 +1,1 @@
+This project involves the creation of a simplistic recipe website using basic HTML elements. It also utilizes Git and GitHub for hosting and archiving various different versions of the website and its files.
